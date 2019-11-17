@@ -77,5 +77,5 @@ Input (UINT n, UINT d) Output (string)
 11, 20 0.55
 5, 3 1.(6)
 
-27. 
+27. Repeating first index. "rahulgorai" - return r
 
