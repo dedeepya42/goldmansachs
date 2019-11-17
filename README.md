@@ -58,4 +58,24 @@ So_Cal (start) {2, 0, 0, 0, 0}} S
 v
 The total for this example would be 10 (2+0+1+1+1+0+5).
 
+25. Given a string. Write a function to find the first non-repeating character in it. If there is no non-repeating character, return 0;
+e.g.
+Input (string) Output (char)
+—– ——
+aabbccd d
+abbccddee a
+iijjkkllmm 0
+
+26. Implement a function that takes two unsigned integers as arguments namely numerator & denominator and outputs a string representing the fraction in decimal form. If there is a repeating and non-terminating digit that appears in the decimal form, write that in parenthesis.
+e.g.
+Input (UINT n, UINT d) Output (string)
+—– ——
+2, 5 0.4
+1, 2 0.5
+1, 3 0.(3)
+12, 5 2.4
+11, 20 0.55
+5, 3 1.(6)
+
+27. 
 
